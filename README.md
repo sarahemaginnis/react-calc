@@ -1,3 +1,5 @@
+In this project, I use React to build a fully functional calculator application. Since it is a pretty simple build, I decided not to use Redux and scaffold the project with create-react-app.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
